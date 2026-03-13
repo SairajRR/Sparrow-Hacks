@@ -4,8 +4,9 @@ Sparrow Hacks is a cybersecurity learning platform that provides ethical hacking
 
 ---
 
-## Features
-![Scanner Dashboard](Site preview.png)
+## Site Preview
+
+![Sparrow Hacks Preview](Site%20preview.png)
 
 ## Features
 
