@@ -1,6 +1,8 @@
 # Sparrow Hacks
 
-Sparrow Hacks is a cybersecurity learning platform that provides ethical hacking tools, guides, and demonstrations for students and security enthusiasts. The platform aims to make cybersecurity concepts easier to understand by offering practical resources and a user-friendly interface.
+Sparrow Hacks is a cybersecurity learning platform that provides educational resources, tools, and demonstrations for beginners interested in ethical hacking and cybersecurity.
+
+The website is designed to help users explore cybersecurity concepts through structured pages, guides, and practical demonstrations.
 
 ---
 
@@ -8,13 +10,37 @@ Sparrow Hacks is a cybersecurity learning platform that provides ethical hacking
 
 ![Sparrow Hacks Preview](Site%20preview.png)
 
+---
+
 ## Features
 
-* Ethical hacking tools for practice and learning
-* Guides explaining cybersecurity concepts and techniques
-* Demonstrations for security testing and vulnerability understanding
-* Simple and clean user interface for easy navigation
-* Educational resources for beginners in cybersecurity
+* Educational cybersecurity content
+* Ethical hacking tools and demonstrations
+* Beginner-friendly guides for learning security concepts
+* Simple and responsive web interface
+* Practical examples for cybersecurity learning
+
+---
+
+## Website Sections
+
+The platform is organized into different pages that help users learn cybersecurity step by step.
+
+### Home Page
+
+Provides an overview of the platform and introduces users to cybersecurity topics and learning resources available on the website.
+
+### Tools Section
+
+Contains various cybersecurity tools and resources that users can explore for learning and demonstration purposes.
+
+### Guides Section
+
+Provides educational guides explaining cybersecurity concepts such as ethical hacking techniques, vulnerabilities, and security practices.
+
+### Demonstrations
+
+Shows practical demonstrations that help users understand how cybersecurity tools and concepts work in real scenarios.
 
 ---
 
@@ -23,56 +49,85 @@ Sparrow Hacks is a cybersecurity learning platform that provides ethical hacking
 * HTML
 * CSS
 * JavaScript
-* Secure web development practices
+
+The project focuses on frontend web development while demonstrating secure coding practices.
 
 ---
 
-## Security Implementation
+## Security Practices Implemented
 
-The platform includes several security measures to demonstrate safe web development practices:
+The website demonstrates several security-focused development practices including:
 
 * Input validation
 * Protection against Cross-Site Scripting (XSS)
 * Protection against Cross-Site Request Forgery (CSRF)
-* Basic injection attack mitigation
-* Secure authentication design
+* Basic injection prevention techniques
+* Secure authentication structure
 
 ---
 
-## Purpose of the Project
+## How to Use the Website
 
-The goal of Sparrow Hacks is to help beginners understand cybersecurity tools and techniques in a safe educational environment. It is designed for learning purposes and to demonstrate how security concepts can be implemented in real web applications.
+1. Open the website in a browser.
+2. Navigate through the different sections of the platform.
+3. Explore cybersecurity tools and educational guides.
+4. Follow demonstrations to understand security concepts.
+
+---
+
+## How Developers Can Run This Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/Sparrow-Hacks.git
+```
+
+### 2. Open the Project Folder
+
+```bash
+cd Sparrow-Hacks
+```
+
+### 3. Run the Website
+
+Open the main HTML file in a browser or run it using a local development server.
+
+Example using Python:
+
+```bash
+python -m http.server
+```
+
+Then open in browser:
+
+```
+http://localhost:8000
+```
 
 ---
 
 ## Project Structure
 
-Sparrow Hacks includes:
-
-* Web pages for cybersecurity guides and tools
-* Demonstration content for ethical hacking concepts
-* Interactive resources for learning security practices
-
----
-
-## How to Run
-
-1. Clone the repository
-2. Open the project folder
-3. Run the website using a local server or open the main HTML file in a browser
+```
+Sparrow-Hacks
+│
+├── index.html
+├── css/
+├── js/
+├── images/
+└── pages/
+```
 
 ---
 
 ## Disclaimer
 
-This project is created for **educational purposes only**. The tools and demonstrations provided are intended to help learners understand cybersecurity concepts responsibly.
+This project is created for educational purposes only. The tools and resources provided are intended for learning cybersecurity concepts responsibly.
 
 ---
 
 ## Author
 
-**Sairaj Reddy**
+Sairaj Reddy
 
-Cybersecurity enthusiast focused on ethical hacking, vulnerability analysis, and security automation.
-
----
