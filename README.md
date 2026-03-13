@@ -150,4 +150,3 @@ The tools and resources provided should only be used in legal and ethical enviro
 # Author
 
 Sairaj Reddy
-Cybersecurity Enthusiast
